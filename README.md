@@ -1,4 +1,5 @@
 # Webcam-Point-Cloud
 
-Run pointCloudTextureSampling.exe (Windows)
+## Instructions
+Download and run pointCloudTextureSampling.exe (Windows)
 
